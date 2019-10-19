@@ -2,4 +2,6 @@
 
 ![Tiger_image](tiger_1.jpg)
 
-### I can link this webpage to a custom website name like qxjiang.me, as long as it hasn't been registered! You can test if a website name is available or not in [name.com](https://name.com)
+### Note
+
+I can link this webpage to a custom website name like qxjiang.me, as long as it hasn't been registered! You can test if a website name is available or not in [name.com](https://name.com)
